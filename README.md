@@ -34,7 +34,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-discord-clone.git
+(https://github.com/xzoid34/discord-clone.git)
 ```
 
 ### Install packages
